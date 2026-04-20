@@ -14,7 +14,7 @@ Android application that displays different pizza recipes with details and shari
 - XML (UI)
 
 ## 🎥 Demo
-[▶️ Watch Demo Video](demonstration.mp4)
+[▶️ Watch Demo Video] https://youtube.com/shorts/8-as77r_Ud8?feature=share
 
 
 ##  Author
